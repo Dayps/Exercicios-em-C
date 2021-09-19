@@ -1,7 +1,6 @@
 /******************************************************
 ********                                       ********
-********    Dayane Pereira de Souza   7745831  ********
-********    Exercìcio-Programa 01              ********
+********    ExercÃ¬cio-Programa 01              ********
 ********    Professor Alair Pereira do Lago    ********
 ********    Turma 01                           ********
 ********                                       ********
@@ -52,7 +51,7 @@
 
 
 
-    /* Testando operação*/
+    /* Testando operaÃ§Ã£o*/
     /*
 
         if (senha == %d %d %d %d x) {
@@ -76,8 +75,8 @@
         }
 
         if (tent > 10) {
-    printf("\n\nVOCÊ ULTRAPASSOU O LIMITE DE TENTATIVAS! TENTE OUTRA VEZ!");
-    printf("\nO número era: %d", senha);
+    printf("\n\nVOCÃŠ ULTRAPASSOU O LIMITE DE TENTATIVAS! TENTE OUTRA VEZ!");
+    printf("\nO nÃºmero era: %d", senha);
   }
 
 
